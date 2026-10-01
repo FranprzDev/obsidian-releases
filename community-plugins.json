@@ -57832,5 +57832,12 @@
     "author": "Jiwoo Roh",
     "description": "A Notion-style floating toolbar that appears when you select text or a line: change block type, text/highlight color, and inline formatting. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jiwooroh/notion-selection-toolbar"
+  },
+  {
+    "id": "latex-voice",
+    "name": "LaTeX Voice",
+    "author": "FranprzDev",
+    "description": "Dictate math and notes by voice, transcribed and converted to Markdown and LaTeX.",
+    "repo": "FranprzDev/latex-voice"
   }
 ]
