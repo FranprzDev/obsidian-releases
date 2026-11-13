@@ -72168,5 +72168,12 @@
     "author": "chacha260",
     "description": "Animated wallpapers behind your workspace: images, videos, web pages and built-in effects, with slideshow, dimming, blur and parallax. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "chacha260/obsidian-scenery"
+  },
+  {
+    "id": "vibe-latex",
+    "name": "Vibe LaTeX",
+    "author": "franciscoperez",
+    "description": "Dictate Spanish equations by voice and convert them into Markdown and LaTeX.",
+    "repo": "FranprzDev/vibe-latex"
   }
 ]
